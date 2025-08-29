@@ -33,7 +33,7 @@ public class Main {
     }
 
     private static void addBook() {
-        System.out.print("Enter book title: ");
+        System.out.print("Enter book title : ");
         String title = scanner.nextLine();
 
         System.out.print("Enter author name: ");
