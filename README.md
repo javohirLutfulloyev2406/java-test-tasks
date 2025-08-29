@@ -21,3 +21,5 @@ A simple library management system:
 - Given a sorted array with duplicates.
 - Remove duplicates and shift remaining values to the left.
 
+ Author
+- GitHub: [javohirLutfulloyev2406](https://github.com/javohirLutfulloyev2406)
